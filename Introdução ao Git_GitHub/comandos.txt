@@ -1,0 +1,23 @@
+Atalhos terminal:  Ctrl + L : limpar o terminal 
+                   Primeira letra + TAB: preenchimento automático
+
+Comandos Git basicos:
+
+                 git init :iniciar o repositório 
+                 git status: observar a situação atual dos arquivos no repositório criado
+                 git add * : adicionar os arquivos para o stage
+
+                 git config --global user.email ""
+                 git config --global user.name "" 
+                 git commit -m "comentário da modificação"
+
+Comandos para iteração com o GitHub:
+                 git clone link
+                 git remote origin "http.."
+                 git push origin branch(master) 
+                 
+                 git pull origin branch: resolver conflitos          
+                       
+
+         
+          
